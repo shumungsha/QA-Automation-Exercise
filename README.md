@@ -9,4 +9,4 @@ API: https://data.weather.gov.hk/weatherAPI/opendata/weather.php
 Test Cases:
 https://docs.google.com/spreadsheets/d/1F9QrQgcma4m0xchFtsRUz-WHeRU69aid7trkvXZlHF4/edit?usp=sharing
 
-The Python file uploaded try to run the test cases automatically.
+The Python file Task1.py uploaded try to run the test cases automatically.
