@@ -20,3 +20,7 @@ If the response status code is 200, “It works!!!” will be displayed in the c
 If the response status code is not 200, the response status code will be displayed in the console.
 
 Test Cases: https://docs.google.com/spreadsheets/d/1F9QrQgcma4m0xchFtsRUz-WHeRU69aid7trkvXZlHF4/edit?pli=1#gid=566928799
+
+Simulate different response status code of the fixed http endpoint:
+1) Mocky.io https://designer.mocky.io/
+2) Requestly.io https://requestly.io/
