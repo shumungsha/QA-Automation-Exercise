@@ -23,4 +23,7 @@ Test Cases: https://docs.google.com/spreadsheets/d/1F9QrQgcma4m0xchFtsRUz-WHeRU6
 
 Simulate different response status code of the fixed http endpoint:
 1) Mocky.io https://designer.mocky.io/
+  Firstly use Mocky.io to create mock API HTTP response which list in the test cases. 
+  e.g. 400 / 404 / 500
 2) Requestly.io https://requestly.io/
+  Then, use Requestly.io to redirect the original request to URL of the mock request created in Mocky.io in step 1.
